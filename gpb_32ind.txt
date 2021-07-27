@@ -1,0 +1,129 @@
+Match found for query: gpfs-phoebe : 32 : 0.000816649
+Match found for query: genepool : 33 : 0.000705794
+Match found for query: UserTagging : 34 : 0.000697225
+Match found for query: 218880 : 35 : 0.00071304
+Match found for query: flukapro : 36 : 0.000531373
+Match found for query: ameisner : 37 : 0.000706799
+Match found for query: chk01400 : 38 : 0.00070095
+Match found for query: InstallArea : 39 : 0.000702946
+Match found for query: Pico16a : 40 : 0.000781986
+Match found for query: Epoch30 : 41 : 0.000778688
+Match found for query: Neutrino : 42 : 0.000686469
+Match found for query: LHC12h : 43 : 0.000730679
+Match found for query: 41996 : 44 : 0.000606248
+Match found for query: hist : 45 : 0.000667503
+Match found for query: kamland : 46 : 0.000471236
+Match found for query: chimera : 47 : 0.000688173
+Match found for query: b5143mu0m03l0 : 48 : 0.000689149
+Match found for query: mana-core : 49 : 0.000707008
+Match found for query: starspin : 50 : 0.000649944
+Match found for query: dybprod : 51 : 0.000685866
+Match found for query: TuningData : 52 : 0.000716428
+Match found for query: PDFONLY : 53 : 0.000670553
+Match found for query: globus : 54 : 0.000688418
+Match found for query: datatran : 55 : 0.00049548
+Match found for query: edison : 56 : 0.000684028
+Match found for query: orbitals : 57 : 0.000779142
+Match found for query: milc : 58 : 0.000680647
+Match found for query: hpssmetacache : 59 : 0.000685639
+Match found for query: Pouya : 60 : 0.000668228
+Match found for query: jihankim : 61 : 0.000679973
+Match found for query: TwoPunctures : 62 : 0.000386726
+Match found for query: cascade : 63 : 0.000694173
+Match found for query: piscees : 64 : 0.000683934
+Match found for query: hopper : 65 : 0.000609236
+Match found for query: hsayed : 66 : 0.000682569
+Match found for query: jgalaro : 67 : 0.000688198
+Match found for query: muDstReaderExtractRefMult : 68 : 0.000532219
+Match found for query: xqian : 69 : 0.000665848
+Match found for query: m1864 : 70 : 0.000562985
+Match found for query: crvMeshAdapt : 71 : 0.00060828
+Match not found for query: 018-black-condorc-hybrid : 72 : 0.000640219
+Match found for query: histograms : 73 : 0.000626128
+Match found for query: mesa : 74 : 0.000674042
+Match found for query: stoichiometric : 75 : 0.000648161
+Match found for query: asymmetric : 76 : 0.000687073
+Match found for query: asymmetric : 77 : 0.000701382
+Match found for query: PYTHIA8PtHard : 78 : 0.000673953
+Match found for query: incite11 : 79 : 0.000565717
+Match found for query: fitpanel : 80 : 0.000720831
+Match found for query: picoHFtree : 81 : 0.000721861
+Match found for query: cism : 82 : 0.000713271
+Match found for query: ne16np4 : 83 : 0.000706968
+Match found for query: sslogconsumer : 84 : 0.000669864
+Match found for query: simdigireco : 85 : 0.000706323
+Match found for query: genkine : 86 : 0.000697728
+Match found for query: chez-baallan : 87 : 0.000736144
+Match found for query: vinetoolkit : 88 : 0.000698723
+Match found for query: cidrtin : 89 : 0.00054581
+Match found for query: mpi4py-import-base : 90 : 0.000688413
+Match found for query: quickbook : 91 : 0.000704344
+Match found for query: GridMain : 92 : 0.000664454
+Match found for query: 20120906-nuwa : 93 : 0.000671118
+Match found for query: 09105a : 94 : 0.00070763
+Match found for query: cray : 95 : 0.000692563
+Match found for query: goamazon : 96 : 0.000672478
+Match not found for query: 12.6.1-INTEL : 97 : 0.000720418
+Match not found for query: maxPmtChargeVsAdCharge.png. : 98 : 0.000675459
+Match not found for query: L3a_118576_000098.output : 99 : 0.000673079
+Match not found for query: hdf5-1.8.15-patch1 : 100 : 0.000686943
+Match not found for query: prepbufrobs_assim_1882081818.txt : 101 : 0.000638164
+Match not found for query: setupscons.py : 102 : 0.000698458
+Match not found for query: unsmooth_run_256 : 103 : 0.000650643
+Match not found for query: d2i_PKCS8PrivateKey.3 : 104 : 0.000412272
+Match not found for query: case2_new_nozzle : 105 : 0.00066698
+Match not found for query: eped_scan : 106 : 0.000676689
+Match not found for query: REST_N_00028.h5 : 107 : 0.000655844
+Match not found for query: BOSS.private : 108 : 0.000650674
+Match not found for query: channel_board15_connector15 : 109 : 0.000701823
+Match not found for query: dadcVsTimeFine.png : 110 : 0.000723129
+Match not found for query: channel_board09_connector05 : 111 : 0.000758293
+Match not found for query: wilson_fermact_params_w.h : 112 : 0.000785735
+Match not found for query: BoloFilterLFER2_41_100-3b_Amplitude.1.pio.flg : 113 : 0.000703119
+Match not found for query: pointing_fortes : 114 : 0.000744038
+Match not found for query: archive_110809054734 : 115 : 0.00068205
+Match not found for query: federated_cleanup.inc : 116 : 0.000720054
+Match not found for query: uploadmail.txt : 117 : 0.000459024
+Match not found for query: DisplacementVector2D.h : 118 : 0.000698919
+Match not found for query: 4band_p1bm_frm : 119 : 0.000707735
+Match not found for query: rational_horner3_17.hpp : 120 : 0.000675759
+Match not found for query: asymptotic_pre : 121 : 0.000649344
+Match not found for query: home1-kushner.15206149.diff.1 : 122 : 0.000608324
+Match not found for query: iODBCtest.pbproj : 123 : 0.000700841
+Match not found for query: gcc.c-torture : 124 : 0.000476591
+Match not found for query: gt4.0.8-all-source-installer : 125 : 0.00049719
+Match not found for query: MOD11_L2 : 126 : 0.000472063
+Match not found for query: trilinos-10.6.0-Source : 127 : 0.000653204
+Match not found for query: run12_200GeVEmbedJets : 128 : 0.000651259
+Match not found for query: ex13f90._f.i : 129 : 0.000659664
+Match not found for query: plt00500_K : 130 : 0.000683214
+Match not found for query: MISR_simulator : 131 : 0.000654438
+Match not found for query: tlhome1.2198 : 132 : 0.000698702
+Match not found for query: oss-0042902-073.png : 133 : 0.000672125
+Match not found for query: sgc2_bordchampsdss : 134 : 0.000624409
+Match not found for query: 20C_Reanalysis : 135 : 0.000647513
+Match not found for query: franklin_Jan21.2010 : 136 : 0.000648349
+Match not found for query: DECam_00163114 : 137 : 0.00064933
+Match not found for query: magellan_2011_06 : 138 : 0.000664603
+Match not found for query: sss_large_vs_small : 139 : 0.000717473
+Match not found for query: bief_v6p2 : 140 : 0.000598706
+Match not found for query: MMS_event_mime75 : 141 : 0.000666033
+Match not found for query: 4band_p1bm_frm : 142 : 0.000635459
+Match not found for query: runs_0022000 : 143 : 0.000638753
+Match not found for query: 12201a193-w1-unc-1b.fits.gz : 144 : 0.000659403
+Match not found for query: channel_board16_connector03 : 145 : 0.000525688
+Match not found for query: 4band_p1bm_frm : 146 : 0.000650751
+Match not found for query: boost-1.38.0 : 147 : 0.000678223
+Match not found for query: hifi40_00054.h5 : 148 : 0.000655343
+Match not found for query: MathJax-1.0.1a-cc4py : 149 : 0.000691617
+Match not found for query: ML_ADMConstraints : 150 : 0.000701964
+Match not found for query: tlhome2.2012 : 151 : 0.000662239
+Match not found for query: dump.NEB.05.6886.cfg : 152 : 0.000646204
+Match not found for query: 745988.cvrsvc09-ib : 153 : 0.000452819
+Match not found for query: runs_0059000 : 154 : 0.000649969
+Match not found for query: aaaadaddd : 155 : 0.000695379
+Match not found for query: badminton : 156 : 0.000704023
+Match not found for query: footballll : 157 : 0.000656767
+Match not found for query: restaurantee : 158 : 0.000649024
+Match not found for query: volleyball : 159 : 0.000642109
+Match not found for query: comforter : 160 : 0.000651209
